@@ -1,0 +1,4 @@
+to run the angular app
+ng serve --port 8081
+
+the back-end is configured to accept request from this port
